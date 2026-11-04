@@ -1,3 +1,7 @@
+---
+layout: default
+title: GitHub Git Obsidian 学习笔记 2026-11-04
+---
 # GitHub / Git / Obsidian 学习笔记（2026-11-04）
 
 > 常胜当日通话与切片练习要点整理，方便日后复习。仓库：`carlos2008ca-spec/ai-workbench-notes`。

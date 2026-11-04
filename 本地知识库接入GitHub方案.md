@@ -1,3 +1,7 @@
+---
+layout: default
+title: 本地知识库接入 GitHub 方案
+---
 # 本地知识库接入 GitHub 方案
 
 > 给常胜本人看的操作说明：把「坚果云同步的本地知识库」用 Git 接到 GitHub，只维护本地一份，GitHub 做远程备份和版本管理。
